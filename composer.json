@@ -1,5 +1,5 @@
 {
-    "name": "linds14sr20det/jQuery.Gantt",
+    "name": "Linds14sr20det/JQueryGantt",
     "description": "Laravel-ified Javascript Gantt Package",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "linds14sr20det\\jQuery.Gantt\\": "src/"
+            "Linds14sr20det\\JQueryGantt\\": ""
         }
     }
 }
