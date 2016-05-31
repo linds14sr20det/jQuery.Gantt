@@ -1,6 +1,6 @@
 <?php
 
-namespace linds14sr20det\jQueryGantt;
+namespace linds14sr20det\jquerygantt;
 
 use Depotwarehouse\Toolbox\FrameworkIntegration\Laravel\ViewComposers\ErrorPartialComposer;
 use Illuminate\Support\ServiceProvider;
