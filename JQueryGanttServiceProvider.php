@@ -10,7 +10,7 @@ class jQueryGanttServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__ . '/Views' => base_path('public/vendor/linds4sr20det')
+            __DIR__ . '/public' => base_path('public/jQuery.Gantt')
         ]);
     }
 
