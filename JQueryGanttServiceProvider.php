@@ -4,7 +4,7 @@ namespace Linds14sr20det\JQueryGantt;
 
 use Illuminate\Support\ServiceProvider;
 
-class jQueryGanttServiceProvider extends ServiceProvider
+class JQueryGanttServiceProvider extends ServiceProvider
 {
 
     public function boot()
